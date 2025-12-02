@@ -28,9 +28,9 @@ The proud kingdom of [[Neverfield]] is ruled by a long line of great warrior kin
 ---
 # The History of Mirovia
 
-> And so it began, with primordial chaos intermingled with the divine touch of the Enlightened...
+> And so it began,  primordial chaos intermingling with the divine touch of the Enlightened...
 
-\- Swenla Glavenhart, Theological Historian, Ledas College of Lore, 899 P.C.
+	\- Swenla Glavenhart, Theological Historian, Ledas College of Lore, 899 P.C.
 
 - [[The Enlightened Age]]
 - [[Arcane Age]]
