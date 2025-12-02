@@ -1,0 +1,1 @@
+The Republic of Ancosia is ruled by the mysterious Laetum Assembly. Shrouded in mystery, little is known about the actual members of the Assembly, other than that they are powerful beings from Ancosia.
