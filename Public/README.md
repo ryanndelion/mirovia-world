@@ -3,7 +3,6 @@
 The year is 953 P.C. (Post Cataclysm). Since [[The Cataclysm]] brought about ruin and destruction to the once thriving lands of Mirovia, the continent has been divided by vastly diverse biomes and political powers. [[Ancosia]], a collection of city-states united under the strong leadership of the [[Laetum Assembly]], leads the study of ancient arcane technologies which were once lost. To its east, [[Helonde]], a nation of open trade and cultural freedom, and [[Ashana]], ruled mercilessly by a God-Emperex, lie in a tentative truce after the conclusion of the [[Tulkari Insurgency]]. In the cold, unforgiving north, [[Vinda]] is a region of little sustenance, though its largest city, [[Ellondia]] houses a budding magocracy.
 The proud kingdom of [[Neverfield]] is ruled by a long line of great warrior kings, their military might belying their small population. North of the warring nation of [[Gorgoroth]] lies the massive region known as [[Khazzadum]]. Southern Khazzadum houses the expansive wastes and scarred badlands of [[Blightmoor]], overrun by all manner of strange terrors - remnants of the Cataclysm. Far to the east lies the mysterious region known as [[Rifenmist]], said to be cursed by the gods for its aristocracy’s past transgressions. 
 
-
 ---
 # The Regions of Mirovia
 
@@ -16,13 +15,8 @@ The proud kingdom of [[Neverfield]] is ruled by a long line of great warrior kin
 - [[Rifenmist]]
 - [[Vinda]]
 
----
 
 ![alt text](Public/mirovia120225small.png)
-
----
-![An example image](mirovia120225small.png)
-
 
 ---
 # The History of Mirovia
