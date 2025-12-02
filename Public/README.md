@@ -17,8 +17,12 @@ The proud kingdom of [[Neverfield]] is ruled by a long line of great warrior kin
 - [[Rifenmist]]
 - [[Vinda]]
 
+---
+title: My Amazing Page
+image: /mirovia120225small.png
+---
+![An example image](mirovia120225small.png)
 
-![[mirovia120225small 1.png]]
 
 ---
 # The History of Mirovia
