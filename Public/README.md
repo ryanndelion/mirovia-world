@@ -4,6 +4,13 @@ The year is 953 P.C. (Post Cataclysm). Since [[The Cataclysm]] brought about rui
 The proud kingdom of [[Neverfield]] is ruled by a long line of great warrior kings, their military might belying their small population. North of the warring nation of [[Gorgoroth]] lies the massive region known as [[Khazzadum]]. Southern Khazzadum houses the expansive wastes and scarred badlands of [[Blightmoor]], overrun by all manner of strange terrors - remnants of the Cataclysm. Far to the east lies the mysterious region known as [[Rifenmist]], said to be cursed by the gods for its aristocracy’s past transgressions. 
 
 ---
+# Campaign Primer
+
+- Level 9 campaign, focus on epic fantasy and questing.
+- Starting point: the party are important denizens or patrons in a city (which city TBD). They have adventured together in the past, but have eventually settled into positions of power within or near the city. 
+- Danger level: high. The party is expected to interact with relatively powerful beings. Risk of death is high.
+
+---
 # The Regions of Mirovia
 
 - [[Ancosia]]
@@ -16,7 +23,7 @@ The proud kingdom of [[Neverfield]] is ruled by a long line of great warrior kin
 - [[Vinda]]
 
 
-![alt text](Public/mirovia120225small.png)
+![Map of Mirovia](mirovia120225small.png)
 
 ---
 # The History of Mirovia
