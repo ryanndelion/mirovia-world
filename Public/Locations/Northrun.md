@@ -1,0 +1,1 @@
+Built at a bend in the River Wicksby, Northrun is the second oldest city in [[Neverfield]]. It has always been the capital of the region, and is famed for its beautiful keep (known as Castle Lyandor) and well-built architecture. The city is split into several boroughs and has fair trade in many commodities.
