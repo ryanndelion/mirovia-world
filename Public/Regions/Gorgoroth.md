@@ -1,0 +1,1 @@
+A mountainous and often volcanic place, there are few forests in this region. Rife with in-fighting and aggressive behaviour towards other regions, the leadership of Gorgoroth can be considered more of a collection of warring tribes than an actual collective. Still, when war is on the horizon, the Warbeasts of Gruumsh will always answer the call to arms.

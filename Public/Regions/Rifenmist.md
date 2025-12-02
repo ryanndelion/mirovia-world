@@ -1,0 +1,1 @@
+The westernmost region of Mirovia. Mysterious and oftentimes misunderstood, the starkly colorful lands of Rifenmist are often said to contain all manner of devious creatures. They do not commune with the other regions, preferring to keep to themselves.
