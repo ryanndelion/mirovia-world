@@ -1,1 +1,4 @@
-The most populous region in Mirovia. Led by the mysterious and powerful Laetum Assembly. Currently at war with Gorgoroth. Full of massive cities that promote the study of nature, magic, science and politics. Open trade with Helonde and Ashana (for now).
+The most populous region in Mirovia. Led by the mysterious and powerful [[Laetum Assembly]]. Currently at war with Gorgoroth. Full of massive cities that promote the study of nature, magic, science and politics. Open trade with Helonde and Ashana (for now).
+
+## Major Locations
+- [[Nionosea]] - Capital city, largest city
