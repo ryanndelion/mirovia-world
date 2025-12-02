@@ -1,4 +1,3 @@
-
 # Welcome to Mirovia
 
 The year is 953 P.C. (Post Cataclysm). Since [[The Cataclysm]] brought about ruin and destruction to the once thriving lands of Mirovia, the continent has been divided by vastly diverse biomes and political powers. [[Ancosia]], a collection of city-states united under the strong leadership of the [[Laetum Assembly]], leads the study of ancient arcane technologies which were once lost. To its east, [[Helonde]], a nation of open trade and cultural freedom, and [[Ashana]], ruled mercilessly by a God-Emperex, lie in a tentative truce after the conclusion of the [[Tulkari Insurgency]]. In the cold, unforgiving north, [[Vinda]] is a region of little sustenance, though its largest city, [[Ellondia]] houses a budding magocracy.
@@ -18,8 +17,9 @@ The proud kingdom of [[Neverfield]] is ruled by a long line of great warrior kin
 - [[Vinda]]
 
 ---
-title: My Amazing Page
-image: /mirovia120225small.png
+
+![alt text](Public/mirovia120225small.png)
+
 ---
 ![An example image](mirovia120225small.png)
 
@@ -35,3 +35,4 @@ image: /mirovia120225small.png
 - [[Arcane Age]]
 - [[The Cataclysm]]
 - [[World-At-Arms Period]]
+
