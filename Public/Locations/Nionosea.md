@@ -1,16 +1,16 @@
-The current capital of Ancosia, Nionosea is also known as Caelum Domini - The Castle in The Sky. Before the Cataclysm destroyed much of Ancosia’s original infrastructure nearly 1000 years ago, Nionosea was merely a small town, several days’ journey away from the original floating capital of Ancosia, Dornudomus. Nionosea was primarily a university town - many of the great institutions of the Arcane Age were experimenting with magics which would render the flying technology of the time unstable. As such, Nionosea remained grounded. When the Cataclysm struck and the Arcane Knots dotted throughout Mirovia exploded, extraplanar creatures poured into the Mirovian sky and Dornudomus was utterly decimated. Meanwhile, as flocks of refugees from Dornudomus fled to Nionosea in panic, a young professor of Evocation named Ivan Highcastle managed to contain Nionosea’s Knot, while the most magically-inclined of his peers cast a spell of protection around the town. While ash blotted out the sun from the destruction of Mirovia, Highcastle and his cabal toiled in utter darkness, eventually replicating the magic which allowed Dornudomus to fly and catapulting Nionosea into the air, where it would stay until today. 
+The current capital of [[Ancosia]], Nionosea is also known as Caelum Domini - The Castle in The Sky. Before the Cataclysm destroyed much of Ancosia’s original infrastructure nearly 1000 years ago, Nionosea was merely a small town, several days’ journey away from the original floating capital of Ancosia, [[Dornudomus]]. Nionosea was primarily a university town - many of the great institutions of the Arcane Age were experimenting with magics which would render the flying technology of the time unstable. As such, Nionosea remained grounded. When the Cataclysm struck and the [[Arcane Knot]]s dotted throughout Mirovia exploded, extraplanar creatures poured into the Mirovian sky and Dornudomus was utterly decimated. Meanwhile, as flocks of refugees from Dornudomus fled to Nionosea in panic, a young professor of Evocation named [[Ivan Highcastle]] managed to contain Nionosea’s Knot, while the most magically-inclined of his peers cast a spell of protection around the town. While ash blotted out the sun from the destruction of Mirovia, Highcastle and his cabal toiled in utter darkness, eventually replicating the magic which allowed Dornudomus to fly and catapulting Nionosea into the air, where it would stay until today. 
 
   
 
-In their bubble, Nionosea would become the premier Magocracy of Mirovia. While servants of the new Gods battled against the horrific monstrosities that now stalked the lands and the Gods themselves fought to keep their respective planes from descending into chaos, Ivan Highcastle and his cabal, now known as Weaveshifters, forged Nionosea anew. When Nionosea was finally revealed after the ash had settled, some 30 years after the Cataclysm, it had become by far the most advanced city in all of Mirovia. For 100 years, the city flew around the continent, where historians salvaged what they could from the wreckage of once-great cities, and merchants started new businesses in other areas of the continent. Many modern economists attribute this period (called the Great Flight of the Castle) to the swift recovery of Mirovia as a whole. However, in the absence of gods in the material plane, political struggle and war became the new normal.
+In their bubble, Nionosea would become the premier Magocracy of Mirovia. While servants of the new Gods battled against the horrific monstrosities that now stalked the lands and the Gods themselves fought to keep their respective planes from descending into chaos, Ivan Highcastle and his cabal, now known as [[Weaveshifters]], forged Nionosea anew. When Nionosea was finally revealed after the ash had settled, some 30 years after the Cataclysm, it had become by far the most advanced city in all of Mirovia. For 100 years, the city flew around the continent, where historians salvaged what they could from the wreckage of once-great cities, and merchants started new businesses in other areas of the continent. Many modern economists attribute this period (called the Great Flight of the Castle) to the swift recovery of Mirovia as a whole. However, in the absence of gods in the material plane, political struggle and war became the new normal.
 
   
 
-While most would expect that Highcastle and the Weaveshifters would assume administrative roles in the new nation of Ancosia, the Laetum Assembly was instead formed, comprising five powerful members of the Nionosean elite whose identities were obscured. The Weaveshifters retreated into academia and policy-making, and many faded into obscurity. For the past 900 years, the Laetum Assembly has ruled justly, albeit with a strong hand. Research, business and magical items constitute the major outputs of the city, while farming and livestock were shifted to nearby satellite towns. Most experts would consider the Ancosian system of government to be a meritocracy - guild members and students who performed well seemed to climb up the ranks quickly. However, many political dissidents during this period were quenched quietly, and though little concrete evidence of foul play has been found, many Nionoseans speak fearfully of the Oculo, a secretive branch of the Assembly who were always watching and listening.
+While most would expect that Highcastle and the Weaveshifters would assume administrative roles in the new nation of Ancosia, the [[Laetum Assembly]] was instead formed, comprising five powerful members of the Nionosean elite whose identities were obscured. The Weaveshifters retreated into academia and policy-making, and many faded into obscurity. For the past 900 years, the Laetum Assembly has ruled justly, albeit with a strong hand. Research, business and magical items constitute the major outputs of the city, while farming and livestock were shifted to nearby satellite towns. Most experts would consider the Ancosian system of government to be a meritocracy - guild members and students who performed well seemed to climb up the ranks quickly. However, many political dissidents during this period were quenched quietly, and though little concrete evidence of foul play has been found, many Nionoseans speak fearfully of the [[Oculo]], a secretive branch of the Assembly who were always watching and listening.
 
   
 
-Due to its massive size, modern Nionosea is now stationary, held in the air by 16 massive magically-imbued chains that extend to the swamps below. Nionosea is a multi-tiered city, and is roughly divided into five major rings. The outermost (or fifth) ring mostly comprises suburbs and industrial parks. The fourth ring is where mercantilism flourishes, with several shopping districts and cultural buildings serving as entertainment for the denizens of the city. The third ring is where most of the city’s research, education and innovation is concentrated. It is typically considered an honor to attend a ‘third-ringer’ school. The second ring is the city’s park district. Amidst the beautiful landscape sits the Biblioplex, the shining jewel of Nionosea, flanked by museums and lavish noble abodes. Highcastle Academy is also situated in the fourth ring, the only major university situated as such. Finally, the innermost (or first ring) is the administrative hub of the City. It is hidden from the public eye, and accessible only by the inner circle of the Laetum Assembly. For many Ancosians, it is considered a great honor to be invited to the fifth ring under any circumstances. 
+Due to its massive size, modern Nionosea is now stationary, held in the air by 16 massive magically-imbued chains that extend to the swamps below. Nionosea is a multi-tiered city, and is roughly divided into five major rings. The outermost (or fifth) ring mostly comprises suburbs and industrial parks. The fourth ring is where mercantilism flourishes, with several shopping districts and cultural buildings serving as entertainment for the denizens of the city. The third ring is where most of the city’s research, education and innovation is concentrated. It is typically considered an honor to attend a ‘third-ringer’ school. The second ring is the city’s park district. Amidst the beautiful landscape sits the [[Biblioplex]], the shining jewel of Nionosea, flanked by museums and lavish noble abodes. [[Highcastle Academy]] is also situated in the second ring, the only major university situated as such. Finally, the innermost (or first ring) is the administrative hub of the City. It is hidden from the public eye, and accessible only by the inner circle of the Laetum Assembly. For many Ancosians, it is considered a great honor to be invited to the first ring under any circumstances. 
 
   
 
@@ -19,34 +19,3 @@ Nionoseans are some of the most innovative and strong-willed folk in Mirovia. In
   
   
 
-## Statistics
-
-Races : Large proportions of human, high elf, gnome and loxodon. Many Awakened (automatons granted sentience through magic and other means) live amongst other races. Rana (frog-like humanoids with long tongues and slimy skin) are also seen commonly in the poorer parts of the city. 
-
-  
-
-Total inhabitants : 600,000 (including surrounding satellite towns)
-
-  
-
-Protection : Hypastis - shielded automatons. Kopis - arcane automaton infantry, typically controlled by a Praetor.
-
-  
-
-Government : Laetum Assembly. Little is known about their inner workings or who is on the Assembly, but they occasionally appear to give messages to the people, wearing masks to conceal their identity.
-
-  
-
-Legal system : Jurors are appointed in every neighborhood/district, and most minor issues are solved in local courts. Curia Lex is a larger judicial building situated in the fourth ring, where Juror Supreme presides over bigger cases that might affect the city and nation as a whole.
-
-  
-
-Religion : Relatively rare compared to other places, but many worship gods of invention, knowledge, magic and mercantilism
-
-  
-
-Key Guilds : 
-
-Highcastle Academy, Canensia Terpsichore, Larethian University, The Windwalkers, Vox Populi, Temple of Tharmekul, Ex Mechanus, The Battlesmiths, Tinkerum Arcanum…
-
-More will be added as players explore ;)
