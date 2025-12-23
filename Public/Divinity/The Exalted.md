@@ -1,0 +1,6 @@
+---
+aliases:
+  - Exalted
+  - Gods
+  - Divine
+---
