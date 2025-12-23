@@ -1,1 +1,11 @@
 { "showSidebar": true, "theme": { "defaultMode": "dark" } }
+{
+  "nav": {
+    "links": [
+      {
+        "href": "/README",
+        "name": "As Above, So Below"
+      }
+    ]
+  }
+}
