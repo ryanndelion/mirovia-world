@@ -1,1 +1,0 @@
-The primordials were the progenitors of the world, who existed before Time itself.
