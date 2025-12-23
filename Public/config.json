@@ -1,6 +1,6 @@
 { "showSidebar": true, 
   "theme": { "defaultMode": "dark" }, 
   "nav": { 
-    "links": [ { "href": "/", "name": "As Above, So Below" } ] 
+    "links": [ { "href": "/", "name": "As Above, So Below: A Mirovian Fable" } ] 
   } 
 }
