@@ -1,0 +1,3 @@
+- Human Cleric of [[Tymora]] (Trickery Domain)
+- Ex-member of adventuring party [[Madness Leashed]]
+- 
