@@ -1,5 +1,5 @@
 ---
-showSidebar: false
+showSidebar: true
 ---
 
 # As Above, So Below: A Mirovian Fable
