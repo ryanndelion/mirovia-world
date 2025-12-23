@@ -1,4 +1,8 @@
-# As Above, So Below : A Mirovian Fable
+---
+showSidebar: false
+---
+
+# As Above, So Below: A Mirovian Fable
 add campaign one-pager here
 
 # Welcome to Mirovia
