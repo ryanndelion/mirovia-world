@@ -2,7 +2,7 @@
 - [[Laetum Assembly]]
 - [[Senator Habithi Guron]]
 - [[Senator Ming-Na Calavius]]
-- [[Consular Taryok Darvon]]
+- [[Publica Taryok Darvon]]
 - [[Praetor hehehaha]]
 - [[Primus Tel'rikon]]
 
