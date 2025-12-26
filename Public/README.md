@@ -1,7 +1,6 @@
 ---
 showSidebar: true
 ---
-
 # As Above, So Below: A Mirovian Fable
 
 A Black Sun rises over the floating city of [[Nionosea]], capital of the [[Ancosian Republic|Republic of Ancosia]]. Arcanists of the [[Biblioplex]] have fallen into a slumber most deep. Rumors whisper of a shadowy figures plotting to usurp the Laetum Assembly. Artifacts of deicide from ages long past awaken, ravenous and uncontained. Who will arise to right the wrongs of Mirovia's past?
