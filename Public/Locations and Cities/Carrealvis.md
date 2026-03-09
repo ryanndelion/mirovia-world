@@ -1,0 +1,4 @@
+Carrealvis is a small town in [[Helonde]] nestled in the massive Karum Fjord, an inlet from the [[Sanguine Sea]]. Legend has it that Carrealvis was founded when legendary Belhaven pirate Samuel Seawhisk was shipwrecked by a freak whirlpool, only to be rescued by a shoal of sentient dolphins. As a symbol of his gratitude, he captured and sold the entire shoal to the highest bidder, instantly becoming rich enough to start a settlement. Carrealvis now thrives on trading exotic aquatic life, as well as exporting timber from the [[Pelsari Forest]] and exotic spices from the deserts of [[Ashana]].
+
+- Led by Mayor [[Lura Bromwood]], a half-elven woman who seems in over her head in running a town.
+- Leader of the Noldorin Guard is Captain Chance Pannan, a half-goliath, half-halfling man with a penchant for police violence.
